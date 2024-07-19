@@ -1,1 +1,1 @@
-# floyastand
+# floya-game-page
